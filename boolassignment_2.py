@@ -9,7 +9,7 @@ list8 = [10, 37, 26, 3, 13]
 list9 = [49, 33, 1, 10, 15]
 list10 = [8, 17, 10, 45, 39]
 
-def common_data():
+def common_member():
     for a in list1:
         for b in list2:
             for c in list3:
@@ -23,4 +23,4 @@ def common_data():
                                             if a==b==c==d==e==f==g==h==i==j:
                                                 print(bool(a))
             
-common_data()
+common_member()
