@@ -1,4 +1,4 @@
-dev = ['timothy', 'joshua', 'friday', 'nicholas']
+cohort_1 = ['timothy', 'joshua', 'friday', 'nicholas']
     
-print('friday' in dev)
-print('uzoamaka' in dev)
+print('friday' in cohort_1)
+print('uzoamaka' in cohort_1)
